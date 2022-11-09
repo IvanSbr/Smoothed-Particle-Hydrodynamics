@@ -1,1 +1,3 @@
 # Smoothed-Particle-Hydrodynamics
+
+This method was implemented in the article https://www.researchgate.net/publication/273640450_Numerical_solution_of_the_non-linear_Schrodinger_equation_using_smoothed-particle_hydrodynamics
